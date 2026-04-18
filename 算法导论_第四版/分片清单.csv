@@ -1,0 +1,228 @@
+﻿序号,类别,标题,起始页,结束页,页数,相对路径
+1,辅助材料,封面,1,3,3,00_辅助材料/封面.pdf
+2,辅助材料,Copyright,4,12,9,00_辅助材料/Copyright.pdf
+3,辅助材料,Preface,13,23,11,00_辅助材料/Preface.pdf
+4,辅助材料,Part_I_Foundations_篇首页,24,24,1,00_辅助材料/Part_I_Foundations_篇首页.pdf
+5,辅助材料,Part_II_Sorting_and_Order_Statistics_篇首页,223,223,1,00_辅助材料/Part_II_Sorting_and_Order_Statistics_篇首页.pdf
+6,辅助材料,Part_III_Data_Structures_篇首页,339,339,1,00_辅助材料/Part_III_Data_Structures_篇首页.pdf
+7,辅助材料,Part_IV_Advanced_Design_and_Analysis_篇首页,479,479,1,00_辅助材料/Part_IV_Advanced_Design_and_Analysis_篇首页.pdf
+8,辅助材料,Part_V_Advanced_Data_Structures_篇首页,630,630,1,00_辅助材料/Part_V_Advanced_Data_Structures_篇首页.pdf
+9,辅助材料,Part_VI_Graph_Algorithms_篇首页,715,715,1,00_辅助材料/Part_VI_Graph_Algorithms_篇首页.pdf
+10,辅助材料,Part_VII_Selected_Topics_篇首页,964,964,1,00_辅助材料/Part_VII_Selected_Topics_篇首页.pdf
+11,辅助材料,Part_VIII_Appendix_篇首页,1466,1466,1,00_辅助材料/Part_VIII_Appendix_篇首页.pdf
+12,辅助材料,Bibliography,1571,1597,27,00_辅助材料/Bibliography.pdf
+13,辅助材料,Index,1598,1676,79,00_辅助材料/Index.pdf
+14,Problems,Ch1 Problems,41,43,3,Part_I_Foundations/1_The_Role_of_Algorithms_in_Computing/Problems.pdf
+15,Problems,Ch2 Problems,78,84,7,Part_I_Foundations/2_Getting_Started/Problems.pdf
+16,Problems,Ch3 Problems,112,118,7,Part_I_Foundations/3_Characterizing_Running_Times/Problems.pdf
+17,Problems,Ch4 Problems,175,183,9,Part_I_Foundations/4_Divide-and-Conquer/Problems.pdf
+18,Problems,Ch5 Problems,219,228,10,Part_I_Foundations/5_Probabilistic_Analysis_and_Randomized_Algorithms/Problems.pdf
+19,Problems,Ch6 Problems,251,254,4,Part_II_Sorting_and_Order_Statistics/6_Heapsort/Problems.pdf
+20,Problems,Ch7 Problems,276,283,8,Part_II_Sorting_and_Order_Statistics/7_Quicksort/Problems.pdf
+21,Problems,Ch8 Problems,301,311,11,Part_II_Sorting_and_Order_Statistics/8_Sorting_in_Linear_Time/Problems.pdf
+22,Problems,Ch9 Problems,332,343,12,Part_II_Sorting_and_Order_Statistics/9_Medians_and_Order_Statistics/Problems.pdf
+23,Problems,Ch10 Problems,363,367,5,Part_III_Data_Structures/10_Elementary_Data_Structures/Problems.pdf
+24,Problems,Ch11 Problems,413,417,5,Part_III_Data_Structures/11_Hash_Tables/Problems.pdf
+25,Problems,Ch12 Problems,436,441,6,Part_III_Data_Structures/12_Binary_Search_Trees/Problems.pdf
+26,Problems,Ch13 Problems,473,481,9,Part_III_Data_Structures/13_Red-Black_Trees/Problems.pdf
+27,Problems,Ch14 Problems,540,552,13,Part_IV_Advanced_Design_and_Analysis_Techniques/14_Dynamic_Programming/Problems.pdf
+28,Problems,Ch15 Problems,591,593,3,Part_IV_Advanced_Design_and_Analysis_Techniques/15_Greedy_Algorithms/Problems.pdf
+29,Problems,Ch16 Problems,624,633,10,Part_IV_Advanced_Design_and_Analysis_Techniques/16_Amortized_Analysis/Problems.pdf
+30,Problems,Ch17 Problems,654,655,2,Part_V_Advanced_Data_Structures/17_Augmenting_Data_Structures/Problems.pdf
+31,Problems,Ch18 Problems,680,683,4,Part_V_Advanced_Data_Structures/18_B-Trees/Problems.pdf
+32,Problems,Ch19 Problems,710,717,8,Part_V_Advanced_Data_Structures/19_Data_Structures_for_Disjoint_Sets/Problems.pdf
+33,Problems,Ch20 Problems,757,761,5,Part_VI_Graph_Algorithms/20_Elementary_Graph_Algorithms/Problems.pdf
+34,Problems,Ch21 Problems,778,784,7,Part_VI_Graph_Algorithms/21_Minimum_Spanning_Trees/Problems.pdf
+35,Problems,Ch22 Problems,829,837,9,Part_VI_Graph_Algorithms/22_Single-Source_Shortest_Paths/Problems.pdf
+36,Problems,Ch23 Problems,864,868,5,Part_VI_Graph_Algorithms/23_All-Pairs_Shortest_Paths/Problems.pdf
+37,Problems,Ch24 Problems,902,910,9,Part_VI_Graph_Algorithms/24_Maximum_Flow/Problems.pdf
+38,Problems,Ch25 Problems,958,968,11,Part_VI_Graph_Algorithms/25_Matchings_in_Bipartite_Graphs/Problems.pdf
+39,Problems,Ch26 Problems,1015,1025,11,Part_VII_Selected_Topics/26_Parallel_Algorithms/Problems.pdf
+40,Problems,Ch27 Problems,1056,1060,5,Part_VII_Selected_Topics/27_Online_Algorithms/Problems.pdf
+41,Problems,Ch28 Problems,1095,1098,4,Part_VII_Selected_Topics/28_Matrix_Operations/Problems.pdf
+42,Problems,Ch29 Problems,1128,1132,5,Part_VII_Selected_Topics/29_Linear_Programming/Problems.pdf
+43,Problems,Ch30 Problems,1159,1164,6,Part_VII_Selected_Topics/30_Polynomials_and_the_FFT/Problems.pdf
+44,Problems,Ch31 Problems,1229,1233,5,Part_VII_Selected_Topics/31_Number-Theoretic_Algorithms/Problems.pdf
+45,Problems,Ch32 Problems,1283,1292,10,Part_VII_Selected_Topics/32_String_Matching/Problems.pdf
+46,Problems,Ch33 Problems,1337,1342,6,Part_VII_Selected_Topics/33_Machine-Learning_Algorithms/Problems.pdf
+47,Problems,Ch34 Problems,1415,1422,8,Part_VII_Selected_Topics/34_NP-Completeness/Problems.pdf
+48,Problems,Ch35 Problems,1566,1570,5,Part_VIII_Appendix__Mathematical_Background/35_Approximation_Algorithms/Problems.pdf
+49,篇引言,Introduction,25,27,3,Part_I_Foundations/Introduction.pdf
+50,小节,1.1 Algorithms,28,37,10,Part_I_Foundations/1_The_Role_of_Algorithms_in_Computing/1.1_Algorithms.pdf
+51,小节,1.2 Algorithms as a technology,37,41,5,Part_I_Foundations/1_The_Role_of_Algorithms_in_Computing/1.2_Algorithms_as_a_technology.pdf
+52,小节,2.1 Insertion sort,44,54,11,Part_I_Foundations/2_Getting_Started/2.1_Insertion_sort.pdf
+53,小节,2.2 Analyzing algorithms,54,64,11,Part_I_Foundations/2_Getting_Started/2.2_Analyzing_algorithms.pdf
+54,小节,2.3 Designing algorithms,64,78,15,Part_I_Foundations/2_Getting_Started/2.3_Designing_algorithms.pdf
+55,章标题页,3 Characterizing Running Times,85,85,1,Part_I_Foundations/3_Characterizing_Running_Times/3_Characterizing_Running_Times_标题页.pdf
+56,小节,"3.1 O-notation, Ω-notation, and Θ-notation",86,91,6,"Part_I_Foundations/3_Characterizing_Running_Times/3.1_O-notation,_Ω-notation,_and_Θ-notation.pdf"
+57,小节,3.2 Asymptotic notation: formal definitions,91,103,13,Part_I_Foundations/3_Characterizing_Running_Times/3.2_Asymptotic_notation__formal_definitions.pdf
+58,小节,3.3 Standard notations and common functions,103,112,10,Part_I_Foundations/3_Characterizing_Running_Times/3.3_Standard_notations_and_common_functions.pdf
+59,章标题页,4 Divide-and-Conquer,119,124,6,Part_I_Foundations/4_Divide-and-Conquer/4_Divide-and-Conquer_标题页.pdf
+60,小节,4.1 Multiplying square matrices,125,131,7,Part_I_Foundations/4_Divide-and-Conquer/4.1_Multiplying_square_matrices.pdf
+61,小节,4.2 Strassen’s algorithm for matrix multiplication,131,138,8,Part_I_Foundations/4_Divide-and-Conquer/4.2_Strassen’s_algorithm_for_matrix_multiplication.pdf
+62,小节,4.3 The substitution method for solving recurrences,138,144,7,Part_I_Foundations/4_Divide-and-Conquer/4.3_The_substitution_method_for_solving_recurrences.pdf
+63,小节,4.4 The recursion-tree method for solving recurrences,144,153,10,Part_I_Foundations/4_Divide-and-Conquer/4.4_The_recursion-tree_method_for_solving_recurrences.pdf
+64,小节,4.5 The master method for solving recurrences,153,160,8,Part_I_Foundations/4_Divide-and-Conquer/4.5_The_master_method_for_solving_recurrences.pdf
+65,小节,★ 4.6 Proof of the continuous master theorem,160,170,11,Part_I_Foundations/4_Divide-and-Conquer/4.6_Proof_of_the_continuous_master_theorem.pdf
+66,小节,★ 4.7 Akra-Bazzi recurrences,170,175,6,Part_I_Foundations/4_Divide-and-Conquer/4.7_Akra-Bazzi_recurrences.pdf
+67,小节,5.1 The hiring problem,184,189,6,Part_I_Foundations/5_Probabilistic_Analysis_and_Randomized_Algorithms/5.1_The_hiring_problem.pdf
+68,小节,5.2 Indicator random variables,189,194,6,Part_I_Foundations/5_Probabilistic_Analysis_and_Randomized_Algorithms/5.2_Indicator_random_variables.pdf
+69,小节,5.3 Randomized algorithms,194,202,9,Part_I_Foundations/5_Probabilistic_Analysis_and_Randomized_Algorithms/5.3_Randomized_algorithms.pdf
+70,小节,★ 5.4 Probabilistic analysis and further uses of indicator random variables,202,219,18,Part_I_Foundations/5_Probabilistic_Analysis_and_Randomized_Algorithms/5.4_Probabilistic_analysis_and_further_uses_of_indicator_random_variables.pdf
+71,篇引言,Introduction,224,228,5,Part_II_Sorting_and_Order_Statistics/Introduction.pdf
+72,小节,6.1 Heaps,229,233,5,Part_II_Sorting_and_Order_Statistics/6_Heapsort/6.1_Heaps.pdf
+73,小节,6.2 Maintaining the heap property,233,236,4,Part_II_Sorting_and_Order_Statistics/6_Heapsort/6.2_Maintaining_the_heap_property.pdf
+74,小节,6.3 Building a heap,236,240,5,Part_II_Sorting_and_Order_Statistics/6_Heapsort/6.3_Building_a_heap.pdf
+75,小节,6.4 The heapsort algorithm,240,243,4,Part_II_Sorting_and_Order_Statistics/6_Heapsort/6.4_The_heapsort_algorithm.pdf
+76,小节,6.5 Priority queues,243,251,9,Part_II_Sorting_and_Order_Statistics/6_Heapsort/6.5_Priority_queues.pdf
+77,小节,7.1 Description of quicksort,255,261,7,Part_II_Sorting_and_Order_Statistics/7_Quicksort/7.1_Description_of_quicksort.pdf
+78,小节,7.2 Performance of quicksort,261,267,7,Part_II_Sorting_and_Order_Statistics/7_Quicksort/7.2_Performance_of_quicksort.pdf
+79,小节,7.3 A randomized version of quicksort,267,268,2,Part_II_Sorting_and_Order_Statistics/7_Quicksort/7.3_A_randomized_version_of_quicksort.pdf
+80,小节,7.4 Analysis of quicksort,268,276,9,Part_II_Sorting_and_Order_Statistics/7_Quicksort/7.4_Analysis_of_quicksort.pdf
+81,小节,8.1 Lower bounds for sorting,284,288,5,Part_II_Sorting_and_Order_Statistics/8_Sorting_in_Linear_Time/8.1_Lower_bounds_for_sorting.pdf
+82,小节,8.2 Counting sort,288,292,5,Part_II_Sorting_and_Order_Statistics/8_Sorting_in_Linear_Time/8.2_Counting_sort.pdf
+83,小节,8.3 Radix sort,292,297,6,Part_II_Sorting_and_Order_Statistics/8_Sorting_in_Linear_Time/8.3_Radix_sort.pdf
+84,小节,8.4 Bucket sort,297,301,5,Part_II_Sorting_and_Order_Statistics/8_Sorting_in_Linear_Time/8.4_Bucket_sort.pdf
+85,章标题页,9 Medians and Order Statistics,312,312,1,Part_II_Sorting_and_Order_Statistics/9_Medians_and_Order_Statistics/9_Medians_and_Order_Statistics_标题页.pdf
+86,小节,9.1 Minimum and maximum,313,315,3,Part_II_Sorting_and_Order_Statistics/9_Medians_and_Order_Statistics/9.1_Minimum_and_maximum.pdf
+87,小节,9.2 Selection in expected linear time,315,324,10,Part_II_Sorting_and_Order_Statistics/9_Medians_and_Order_Statistics/9.2_Selection_in_expected_linear_time.pdf
+88,小节,9.3 Selection in worst-case linear time,324,332,9,Part_II_Sorting_and_Order_Statistics/9_Medians_and_Order_Statistics/9.3_Selection_in_worst-case_linear_time.pdf
+89,篇引言,Introduction,340,343,4,Part_III_Data_Structures/Introduction.pdf
+90,小节,"10.1 Simple array-based data structures: arrays, matrices, stacks, queues",344,352,9,"Part_III_Data_Structures/10_Elementary_Data_Structures/10.1_Simple_array-based_data_structures__arrays,_matrices,_stacks,_queues.pdf"
+91,小节,10.2 Linked lists,352,359,8,Part_III_Data_Structures/10_Elementary_Data_Structures/10.2_Linked_lists.pdf
+92,小节,10.3 Representing rooted trees,359,363,5,Part_III_Data_Structures/10_Elementary_Data_Structures/10.3_Representing_rooted_trees.pdf
+93,章标题页,11 Hash Tables,368,368,1,Part_III_Data_Structures/11_Hash_Tables/11_Hash_Tables_标题页.pdf
+94,小节,11.1 Direct-address tables,369,371,3,Part_III_Data_Structures/11_Hash_Tables/11.1_Direct-address_tables.pdf
+95,小节,11.2 Hash tables,371,380,10,Part_III_Data_Structures/11_Hash_Tables/11.2_Hash_tables.pdf
+96,小节,11.3 Hash functions,380,394,15,Part_III_Data_Structures/11_Hash_Tables/11.3_Hash_functions.pdf
+97,小节,11.4 Open addressing,394,405,12,Part_III_Data_Structures/11_Hash_Tables/11.4_Open_addressing.pdf
+98,小节,11.5 Practical considerations,405,413,9,Part_III_Data_Structures/11_Hash_Tables/11.5_Practical_considerations.pdf
+99,小节,12.1 What is a binary search tree?,418,423,6,Part_III_Data_Structures/12_Binary_Search_Trees/12.1_What_is_a_binary_search_tree.pdf
+100,小节,12.2 Querying a binary search tree,423,429,7,Part_III_Data_Structures/12_Binary_Search_Trees/12.2_Querying_a_binary_search_tree.pdf
+101,小节,12.3 Insertion and deletion,429,436,8,Part_III_Data_Structures/12_Binary_Search_Trees/12.3_Insertion_and_deletion.pdf
+102,小节,13.1 Properties of red-black trees,442,447,6,Part_III_Data_Structures/13_Red-Black_Trees/13.1_Properties_of_red-black_trees.pdf
+103,小节,13.2 Rotations,447,450,4,Part_III_Data_Structures/13_Red-Black_Trees/13.2_Rotations.pdf
+104,小节,13.3 Insertion,450,462,13,Part_III_Data_Structures/13_Red-Black_Trees/13.3_Insertion.pdf
+105,小节,13.4 Deletion,462,473,12,Part_III_Data_Structures/13_Red-Black_Trees/13.4_Deletion.pdf
+106,篇引言,Introduction,480,481,2,Part_IV_Advanced_Design_and_Analysis_Techniques/Introduction.pdf
+107,章标题页,14 Dynamic Programming,482,482,1,Part_IV_Advanced_Design_and_Analysis_Techniques/14_Dynamic_Programming/14_Dynamic_Programming_标题页.pdf
+108,小节,14.1 Rod cutting,483,496,14,Part_IV_Advanced_Design_and_Analysis_Techniques/14_Dynamic_Programming/14.1_Rod_cutting.pdf
+109,小节,14.2 Matrix-chain multiplication,496,507,12,Part_IV_Advanced_Design_and_Analysis_Techniques/14_Dynamic_Programming/14.2_Matrix-chain_multiplication.pdf
+110,小节,14.3 Elements of dynamic programming,507,522,16,Part_IV_Advanced_Design_and_Analysis_Techniques/14_Dynamic_Programming/14.3_Elements_of_dynamic_programming.pdf
+111,小节,14.4 Longest common subsequence,522,530,9,Part_IV_Advanced_Design_and_Analysis_Techniques/14_Dynamic_Programming/14.4_Longest_common_subsequence.pdf
+112,小节,14.5 Optimal binary search trees,530,540,11,Part_IV_Advanced_Design_and_Analysis_Techniques/14_Dynamic_Programming/14.5_Optimal_binary_search_trees.pdf
+113,章标题页,15 Greedy Algorithms,553,553,1,Part_IV_Advanced_Design_and_Analysis_Techniques/15_Greedy_Algorithms/15_Greedy_Algorithms_标题页.pdf
+114,小节,15.1 An activity-selection problem,554,564,11,Part_IV_Advanced_Design_and_Analysis_Techniques/15_Greedy_Algorithms/15.1_An_activity-selection_problem.pdf
+115,小节,15.2 Elements of the greedy strategy,564,571,8,Part_IV_Advanced_Design_and_Analysis_Techniques/15_Greedy_Algorithms/15.2_Elements_of_the_greedy_strategy.pdf
+116,小节,15.3 Huffman codes,571,582,12,Part_IV_Advanced_Design_and_Analysis_Techniques/15_Greedy_Algorithms/15.3_Huffman_codes.pdf
+117,小节,15.4 Offline caching,582,591,10,Part_IV_Advanced_Design_and_Analysis_Techniques/15_Greedy_Algorithms/15.4_Offline_caching.pdf
+118,章标题页,16 Amortized Analysis,594,594,1,Part_IV_Advanced_Design_and_Analysis_Techniques/16_Amortized_Analysis/16_Amortized_Analysis_标题页.pdf
+119,小节,16.1 Aggregate analysis,595,600,6,Part_IV_Advanced_Design_and_Analysis_Techniques/16_Amortized_Analysis/16.1_Aggregate_analysis.pdf
+120,小节,16.2 The accounting method,600,604,5,Part_IV_Advanced_Design_and_Analysis_Techniques/16_Amortized_Analysis/16.2_The_accounting_method.pdf
+121,小节,16.3 The potential method,604,609,6,Part_IV_Advanced_Design_and_Analysis_Techniques/16_Amortized_Analysis/16.3_The_potential_method.pdf
+122,小节,16.4 Dynamic tables,609,624,16,Part_IV_Advanced_Design_and_Analysis_Techniques/16_Amortized_Analysis/16.4_Dynamic_tables.pdf
+123,篇引言,Introduction,631,633,3,Part_V_Advanced_Data_Structures/Introduction.pdf
+124,小节,17.1 Dynamic order statistics,634,642,9,Part_V_Advanced_Data_Structures/17_Augmenting_Data_Structures/17.1_Dynamic_order_statistics.pdf
+125,小节,17.2 How to augment a data structure,642,646,5,Part_V_Advanced_Data_Structures/17_Augmenting_Data_Structures/17.2_How_to_augment_a_data_structure.pdf
+126,小节,17.3 Interval trees,646,654,9,Part_V_Advanced_Data_Structures/17_Augmenting_Data_Structures/17.3_Interval_trees.pdf
+127,章标题页,18 B-Trees,656,660,5,Part_V_Advanced_Data_Structures/18_B-Trees/18_B-Trees_标题页.pdf
+128,小节,18.1 Definition of B-trees,661,665,5,Part_V_Advanced_Data_Structures/18_B-Trees/18.1_Definition_of_B-trees.pdf
+129,小节,18.2 Basic operations on B-trees,665,676,12,Part_V_Advanced_Data_Structures/18_B-Trees/18.2_Basic_operations_on_B-trees.pdf
+130,小节,18.3 Deleting a key from a B-tree,676,680,5,Part_V_Advanced_Data_Structures/18_B-Trees/18.3_Deleting_a_key_from_a_B-tree.pdf
+131,小节,19.1 Disjoint-set operations,684,688,5,Part_V_Advanced_Data_Structures/19_Data_Structures_for_Disjoint_Sets/19.1_Disjoint-set_operations.pdf
+132,小节,19.2 Linked-list representation of disjoint sets,688,693,6,Part_V_Advanced_Data_Structures/19_Data_Structures_for_Disjoint_Sets/19.2_Linked-list_representation_of_disjoint_sets.pdf
+133,小节,19.3 Disjoint-set forests,693,698,6,Part_V_Advanced_Data_Structures/19_Data_Structures_for_Disjoint_Sets/19.3_Disjoint-set_forests.pdf
+134,小节,★ 19.4 Analysis of union by rank with path compression,698,710,13,Part_V_Advanced_Data_Structures/19_Data_Structures_for_Disjoint_Sets/19.4_Analysis_of_union_by_rank_with_path_compression.pdf
+135,篇引言,Introduction,716,717,2,Part_VI_Graph_Algorithms/Introduction.pdf
+136,小节,20.1 Representations of graphs,718,724,7,Part_VI_Graph_Algorithms/20_Elementary_Graph_Algorithms/20.1_Representations_of_graphs.pdf
+137,小节,20.2 Breadth-first search,724,736,13,Part_VI_Graph_Algorithms/20_Elementary_Graph_Algorithms/20.2_Breadth-first_search.pdf
+138,小节,20.3 Depth-first search,736,747,12,Part_VI_Graph_Algorithms/20_Elementary_Graph_Algorithms/20.3_Depth-first_search.pdf
+139,小节,20.4 Topological sort,747,750,4,Part_VI_Graph_Algorithms/20_Elementary_Graph_Algorithms/20.4_Topological_sort.pdf
+140,小节,20.5 Strongly connected components,750,757,8,Part_VI_Graph_Algorithms/20_Elementary_Graph_Algorithms/20.5_Strongly_connected_components.pdf
+141,章标题页,21 Minimum Spanning Trees,762,762,1,Part_VI_Graph_Algorithms/21_Minimum_Spanning_Trees/21_Minimum_Spanning_Trees_标题页.pdf
+142,小节,21.1 Growing a minimum spanning tree,763,769,7,Part_VI_Graph_Algorithms/21_Minimum_Spanning_Trees/21.1_Growing_a_minimum_spanning_tree.pdf
+143,小节,21.2 The algorithms of Kruskal and Prim,769,778,10,Part_VI_Graph_Algorithms/21_Minimum_Spanning_Trees/21.2_The_algorithms_of_Kruskal_and_Prim.pdf
+144,章标题页,22 Single-Source Shortest Paths,785,793,9,Part_VI_Graph_Algorithms/22_Single-Source_Shortest_Paths/22_Single-Source_Shortest_Paths_标题页.pdf
+145,小节,22.1 The Bellman-Ford algorithm,794,800,7,Part_VI_Graph_Algorithms/22_Single-Source_Shortest_Paths/22.1_The_Bellman-Ford_algorithm.pdf
+146,小节,22.2 Single-source shortest paths in directed acyclic graphs,800,804,5,Part_VI_Graph_Algorithms/22_Single-Source_Shortest_Paths/22.2_Single-source_shortest_paths_in_directed_acyclic_graphs.pdf
+147,小节,22.3 Dijkstra’s algorithm,804,812,9,Part_VI_Graph_Algorithms/22_Single-Source_Shortest_Paths/22.3_Dijkstra’s_algorithm.pdf
+148,小节,22.4 Difference constraints and shortest paths,812,820,9,Part_VI_Graph_Algorithms/22_Single-Source_Shortest_Paths/22.4_Difference_constraints_and_shortest_paths.pdf
+149,小节,22.5 Proofs of shortest-paths properties,820,829,10,Part_VI_Graph_Algorithms/22_Single-Source_Shortest_Paths/22.5_Proofs_of_shortest-paths_properties.pdf
+150,章标题页,23 All-Pairs Shortest Paths,838,840,3,Part_VI_Graph_Algorithms/23_All-Pairs_Shortest_Paths/23_All-Pairs_Shortest_Paths_标题页.pdf
+151,小节,23.1 Shortest paths and matrix multiplication,841,849,9,Part_VI_Graph_Algorithms/23_All-Pairs_Shortest_Paths/23.1_Shortest_paths_and_matrix_multiplication.pdf
+152,小节,23.2 The Floyd-Warshall algorithm,849,858,10,Part_VI_Graph_Algorithms/23_All-Pairs_Shortest_Paths/23.2_The_Floyd-Warshall_algorithm.pdf
+153,小节,23.3 Johnson’s algorithm for sparse graphs,858,864,7,Part_VI_Graph_Algorithms/23_All-Pairs_Shortest_Paths/23.3_Johnson’s_algorithm_for_sparse_graphs.pdf
+154,章标题页,24 Maximum Flow,869,869,1,Part_VI_Graph_Algorithms/24_Maximum_Flow/24_Maximum_Flow_标题页.pdf
+155,小节,24.1 Flow networks,870,876,7,Part_VI_Graph_Algorithms/24_Maximum_Flow/24.1_Flow_networks.pdf
+156,小节,24.2 The Ford-Fulkerson method,876,897,22,Part_VI_Graph_Algorithms/24_Maximum_Flow/24.2_The_Ford-Fulkerson_method.pdf
+157,小节,24.3 Maximum bipartite matching,897,902,6,Part_VI_Graph_Algorithms/24_Maximum_Flow/24.3_Maximum_bipartite_matching.pdf
+158,章标题页,25 Matchings in Bipartite Graphs,911,912,2,Part_VI_Graph_Algorithms/25_Matchings_in_Bipartite_Graphs/25_Matchings_in_Bipartite_Graphs_标题页.pdf
+159,小节,25.1 Maximum bipartite matching (revisited),913,927,15,Part_VI_Graph_Algorithms/25_Matchings_in_Bipartite_Graphs/25.1_Maximum_bipartite_matching_(revisited).pdf
+160,小节,25.2 The stable-marriage problem,927,936,10,Part_VI_Graph_Algorithms/25_Matchings_in_Bipartite_Graphs/25.2_The_stable-marriage_problem.pdf
+161,小节,25.3 The Hungarian algorithm for the assignment problem,936,958,23,Part_VI_Graph_Algorithms/25_Matchings_in_Bipartite_Graphs/25.3_The_Hungarian_algorithm_for_the_assignment_problem.pdf
+162,篇引言,Introduction,965,968,4,Part_VII_Selected_Topics/Introduction.pdf
+163,章标题页,26 Parallel Algorithms,969,971,3,Part_VII_Selected_Topics/26_Parallel_Algorithms/26_Parallel_Algorithms_标题页.pdf
+164,小节,26.1 The basics of fork-join parallelism,972,999,28,Part_VII_Selected_Topics/26_Parallel_Algorithms/26.1_The_basics_of_fork-join_parallelism.pdf
+165,小节,26.2 Parallel matrix multiplication,999,1005,7,Part_VII_Selected_Topics/26_Parallel_Algorithms/26.2_Parallel_matrix_multiplication.pdf
+166,小节,26.3 Parallel merge sort,1005,1015,11,Part_VII_Selected_Topics/26_Parallel_Algorithms/26.3_Parallel_merge_sort.pdf
+167,章标题页,27 Online Algorithms,1026,1026,1,Part_VII_Selected_Topics/27_Online_Algorithms/27_Online_Algorithms_标题页.pdf
+168,小节,27.1 Waiting for an elevator,1027,1031,5,Part_VII_Selected_Topics/27_Online_Algorithms/27.1_Waiting_for_an_elevator.pdf
+169,小节,27.2 Maintaining a search list,1031,1039,9,Part_VII_Selected_Topics/27_Online_Algorithms/27.2_Maintaining_a_search_list.pdf
+170,小节,27.3 Online caching,1039,1056,18,Part_VII_Selected_Topics/27_Online_Algorithms/27.3_Online_caching.pdf
+171,小节,28.1 Solving systems of linear equations,1061,1078,18,Part_VII_Selected_Topics/28_Matrix_Operations/28.1_Solving_systems_of_linear_equations.pdf
+172,小节,28.2 Inverting matrices,1078,1085,8,Part_VII_Selected_Topics/28_Matrix_Operations/28.2_Inverting_matrices.pdf
+173,小节,28.3 Symmetric positive-definite matrices and least-squares approximation,1085,1095,11,Part_VII_Selected_Topics/28_Matrix_Operations/28.3_Symmetric_positive-definite_matrices_and_least-squares_approximation.pdf
+174,章标题页,29 Linear Programming,1099,1101,3,Part_VII_Selected_Topics/29_Linear_Programming/29_Linear_Programming_标题页.pdf
+175,小节,29.1 Linear programming formulations and algorithms,1102,1111,10,Part_VII_Selected_Topics/29_Linear_Programming/29.1_Linear_programming_formulations_and_algorithms.pdf
+176,小节,29.2 Formulating problems as linear programs,1111,1119,9,Part_VII_Selected_Topics/29_Linear_Programming/29.2_Formulating_problems_as_linear_programs.pdf
+177,小节,29.3 Duality,1119,1128,10,Part_VII_Selected_Topics/29_Linear_Programming/29.3_Duality.pdf
+178,章标题页,30 Polynomials and the FFT,1133,1134,2,Part_VII_Selected_Topics/30_Polynomials_and_the_FFT/30_Polynomials_and_the_FFT_标题页.pdf
+179,小节,30.1 Representing polynomials,1135,1143,9,Part_VII_Selected_Topics/30_Polynomials_and_the_FFT/30.1_Representing_polynomials.pdf
+180,小节,30.2 The DFT and FFT,1143,1153,11,Part_VII_Selected_Topics/30_Polynomials_and_the_FFT/30.2_The_DFT_and_FFT.pdf
+181,小节,30.3 FFT circuits,1153,1159,7,Part_VII_Selected_Topics/30_Polynomials_and_the_FFT/30.3_FFT_circuits.pdf
+182,章标题页,31 Number-Theoretic Algorithms,1165,1166,2,Part_VII_Selected_Topics/31_Number-Theoretic_Algorithms/31_Number-Theoretic_Algorithms_标题页.pdf
+183,小节,31.1 Elementary number-theoretic notions,1167,1175,9,Part_VII_Selected_Topics/31_Number-Theoretic_Algorithms/31.1_Elementary_number-theoretic_notions.pdf
+184,小节,31.2 Greatest common divisor,1175,1182,8,Part_VII_Selected_Topics/31_Number-Theoretic_Algorithms/31.2_Greatest_common_divisor.pdf
+185,小节,31.3 Modular arithmetic,1182,1191,10,Part_VII_Selected_Topics/31_Number-Theoretic_Algorithms/31.3_Modular_arithmetic.pdf
+186,小节,31.4 Solving modular linear equations,1191,1196,6,Part_VII_Selected_Topics/31_Number-Theoretic_Algorithms/31.4_Solving_modular_linear_equations.pdf
+187,小节,31.5 The Chinese remainder theorem,1196,1201,6,Part_VII_Selected_Topics/31_Number-Theoretic_Algorithms/31.5_The_Chinese_remainder_theorem.pdf
+188,小节,31.6 Powers of an element,1201,1206,6,Part_VII_Selected_Topics/31_Number-Theoretic_Algorithms/31.6_Powers_of_an_element.pdf
+189,小节,31.7 The RSA public-key cryptosystem,1206,1215,10,Part_VII_Selected_Topics/31_Number-Theoretic_Algorithms/31.7_The_RSA_public-key_cryptosystem.pdf
+190,小节,★ 31.8 Primality testing,1215,1229,15,Part_VII_Selected_Topics/31_Number-Theoretic_Algorithms/31.8_Primality_testing.pdf
+191,章标题页,32 String Matching,1234,1236,3,Part_VII_Selected_Topics/32_String_Matching/32_String_Matching_标题页.pdf
+192,小节,32.1 The naive string-matching algorithm,1237,1240,4,Part_VII_Selected_Topics/32_String_Matching/32.1_The_naive_string-matching_algorithm.pdf
+193,小节,32.2 The Rabin-Karp algorithm,1240,1247,8,Part_VII_Selected_Topics/32_String_Matching/32.2_The_Rabin-Karp_algorithm.pdf
+194,小节,32.3 String matching with finite automata,1247,1257,11,Part_VII_Selected_Topics/32_String_Matching/32.3_String_matching_with_finite_automata.pdf
+195,小节,★ 32.4 The Knuth-Morris-Pratt algorithm,1257,1270,14,Part_VII_Selected_Topics/32_String_Matching/32.4_The_Knuth-Morris-Pratt_algorithm.pdf
+196,小节,32.5 Suffix arrays,1270,1283,14,Part_VII_Selected_Topics/32_String_Matching/32.5_Suffix_arrays.pdf
+197,章标题页,33 Machine-Learning Algorithms,1293,1295,3,Part_VII_Selected_Topics/33_Machine-Learning_Algorithms/33_Machine-Learning_Algorithms_标题页.pdf
+198,小节,33.1 Clustering,1296,1308,13,Part_VII_Selected_Topics/33_Machine-Learning_Algorithms/33.1_Clustering.pdf
+199,小节,33.2 Multiplicative-weights algorithms,1308,1317,10,Part_VII_Selected_Topics/33_Machine-Learning_Algorithms/33.2_Multiplicative-weights_algorithms.pdf
+200,小节,33.3 Gradient descent,1317,1337,21,Part_VII_Selected_Topics/33_Machine-Learning_Algorithms/33.3_Gradient_descent.pdf
+201,章标题页,34 NP-Completeness,1343,1349,7,Part_VII_Selected_Topics/34_NP-Completeness/34_NP-Completeness_标题页.pdf
+202,小节,34.1 Polynomial time,1350,1360,11,Part_VII_Selected_Topics/34_NP-Completeness/34.1_Polynomial_time.pdf
+203,小节,34.2 Polynomial-time verification,1360,1366,7,Part_VII_Selected_Topics/34_NP-Completeness/34.2_Polynomial-time_verification.pdf
+204,小节,34.3 NP-completeness and reducibility,1366,1381,16,Part_VII_Selected_Topics/34_NP-Completeness/34.3_NP-completeness_and_reducibility.pdf
+205,小节,34.4 NP-completeness proofs,1381,1391,11,Part_VII_Selected_Topics/34_NP-Completeness/34.4_NP-completeness_proofs.pdf
+206,小节,34.5 NP-complete problems,1391,1415,25,Part_VII_Selected_Topics/34_NP-Completeness/34.5_NP-complete_problems.pdf
+207,章标题页,35 Approximation Algorithms,1423,1425,3,Part_VII_Selected_Topics/35_Approximation_Algorithms/35_Approximation_Algorithms_标题页.pdf
+208,小节,35.1 The vertex-cover problem,1426,1430,5,Part_VII_Selected_Topics/35_Approximation_Algorithms/35.1_The_vertex-cover_problem.pdf
+209,小节,35.2 The traveling-salesperson problem,1430,1438,9,Part_VII_Selected_Topics/35_Approximation_Algorithms/35.2_The_traveling-salesperson_problem.pdf
+210,小节,35.3 The set-covering problem,1438,1443,6,Part_VII_Selected_Topics/35_Approximation_Algorithms/35.3_The_set-covering_problem.pdf
+211,小节,35.4 Randomization and linear programming,1443,1449,7,Part_VII_Selected_Topics/35_Approximation_Algorithms/35.4_Randomization_and_linear_programming.pdf
+212,小节,35.5 The subset-sum problem,1449,1465,17,Part_VII_Selected_Topics/35_Approximation_Algorithms/35.5_The_subset-sum_problem.pdf
+213,篇引言,Introduction,1467,1468,2,Part_VIII_Appendix__Mathematical_Background/Introduction.pdf
+214,小节,A.1 Summation formulas and properties,1469,1475,7,Part_VIII_Appendix__Mathematical_Background/A_Summations/A.1_Summation_formulas_and_properties.pdf
+215,小节,A.2 Bounding summations,1475,1482,8,Part_VIII_Appendix__Mathematical_Background/A_Summations/A.2_Bounding_summations.pdf
+216,小节,B.1 Sets,1483,1489,7,Part_VIII_Appendix__Mathematical_Background/B.1_Sets.pdf
+217,小节,B.2 Relations,1489,1492,4,Part_VIII_Appendix__Mathematical_Background/B.2_Relations.pdf
+218,小节,B.3 Functions,1492,1496,5,Part_VIII_Appendix__Mathematical_Background/B.3_Functions.pdf
+219,小节,B.4 Graphs,1496,1502,7,Part_VIII_Appendix__Mathematical_Background/B.4_Graphs.pdf
+220,小节,B.5 Trees,1502,1512,11,Part_VIII_Appendix__Mathematical_Background/B.5_Trees.pdf
+221,小节,C.1 Counting,1513,1521,9,Part_VIII_Appendix__Mathematical_Background/C.1_Counting.pdf
+222,小节,C.2 Probability,1521,1528,8,Part_VIII_Appendix__Mathematical_Background/C.2_Probability.pdf
+223,小节,C.3 Discrete random variables,1528,1534,7,Part_VIII_Appendix__Mathematical_Background/C.3_Discrete_random_variables.pdf
+224,小节,C.4 The geometric and binomial distributions,1534,1542,9,Part_VIII_Appendix__Mathematical_Background/C.4_The_geometric_and_binomial_distributions.pdf
+225,小节,★ C.5 The tails of the binomial distribution,1542,1554,13,Part_VIII_Appendix__Mathematical_Background/C.5_The_tails_of_the_binomial_distribution.pdf
+226,小节,D.1 Matrices and matrix operations,1555,1561,7,Part_VIII_Appendix__Mathematical_Background/D.1_Matrices_and_matrix_operations.pdf
+227,小节,D.2 Basic matrix properties,1561,1570,10,Part_VIII_Appendix__Mathematical_Background/D.2_Basic_matrix_properties.pdf

@@ -1,0 +1,12 @@
+# 临时文件
+/data/
+*.pyc
+__pycache__/
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# Trae 计划文件（内部使用）
+.trae/
