@@ -4,6 +4,9 @@
 __pycache__/
 *.log
 
+# 上传的原始 PDF
+.uploads/
+
 # 系统文件
 .DS_Store
 Thumbs.db
