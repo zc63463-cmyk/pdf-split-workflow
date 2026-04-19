@@ -1,0 +1,9 @@
+# 忽略规则
+.uploads/
+.trae/
+*.py
+*.png
+*.jpg
+*.jpeg
+.DS_Store
+Thumbs.db
